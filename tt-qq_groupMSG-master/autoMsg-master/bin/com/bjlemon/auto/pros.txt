@@ -1,0 +1,4 @@
+fasongyanchi=2000
+ctrlandtabyanchi=200
+suijiqiehuan=7
+images=F:\tt-qq_groupMSG-master\autoMsg-master\src\com\bjlemon\auto\1.jpg
