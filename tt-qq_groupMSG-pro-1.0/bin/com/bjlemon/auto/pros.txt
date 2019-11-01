@@ -1,0 +1,3 @@
+fasongyanchi=2000
+ctrlandtabyanchi=500
+suijiqiehuan=7
