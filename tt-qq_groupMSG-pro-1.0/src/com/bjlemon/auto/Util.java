@@ -76,6 +76,11 @@ public class Util {
     public static void setSysClipboardText(String writeMe) {
         Clipboard clip = Toolkit.getDefaultToolkit().getSystemClipboard();
         Transferable tText = new StringSelection(writeMe);
+        try {
+            Thread.sleep(600);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         clip.setContents(tText, null);
     }
 
@@ -115,7 +120,15 @@ public class Util {
             }
 
         };
+
+        try {
+            Thread.sleep(1500);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         Toolkit.getDefaultToolkit().getSystemClipboard().setContents(trans,
                 null);
+
     }
 }
