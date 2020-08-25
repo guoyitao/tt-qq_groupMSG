@@ -20,7 +20,7 @@ import javax.swing.JTextArea;
 
 import com.google.gson.*;
 import com.melloware.jintellitype.*;
-import org.junit.Test;
+
 
 /**
  * QQ群发工具 具备窗体界面的功能

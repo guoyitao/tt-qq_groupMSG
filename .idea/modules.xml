@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/autoMsg-master/autoMsg-master.iml" filepath="$PROJECT_DIR$/autoMsg-master/autoMsg-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tt-qq_groupMSG.iml" filepath="$PROJECT_DIR$/.idea/tt-qq_groupMSG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-qq_groupMSG-master/tt-qq_groupMSG-master.iml" filepath="$PROJECT_DIR$/tt-qq_groupMSG-master/tt-qq_groupMSG-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-qq_groupMSG-pro-1.0/tt-qq_groupMSG-pro-1.0.iml" filepath="$PROJECT_DIR$/tt-qq_groupMSG-pro-1.0/tt-qq_groupMSG-pro-1.0.iml" />
+    </modules>
+  </component>
+</project>

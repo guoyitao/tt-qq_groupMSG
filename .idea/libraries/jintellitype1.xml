@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jintellitype1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tt-qq_groupMSG-pro-1.0/bin/com/melloware/jintellitype/jintellitype-1.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tt-qq_groupMSG-pro-1.0/bin/com/melloware/jintellitype/gson-2.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

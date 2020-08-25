@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="autoMsg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tt-qq_groupMSG-master/autoMsg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
